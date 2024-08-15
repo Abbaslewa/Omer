@@ -1,0 +1,403 @@
+.part {
+    background-color: white;
+    padding: 8px;
+    margin-left: 10px;
+    border-radius: 10px;
+    box-shadow: #ccc 0px 0px 10px;
+}
+.part ul{
+    display: flex;
+    list-style: none;
+}
+
+.part ul li a{
+    padding: 10px;
+    text-decoration: none;
+    margin-left: 30px;
+}
+.more{
+    margin-left: 70px;
+}
+.body{
+    background-color: rgb(227, 244, 242);
+    height: 300px;
+    width: 1030px;
+    
+}
+.yeah{ 
+    margin-left: 250px;
+}
+.yeah h4{
+padding: 4px;
+
+}
+.room{
+    font-size: 12px;
+    text-align: center;
+    color: #ccc;
+    margin-left: 70px;
+   
+}
+.you{
+   background-color: rgb(12, 164, 164);
+   margin-right: 400px;
+   padding-top: 1px;
+   margin-left: 499px;
+   height: 40px;
+   border-radius: 8px;
+}
+.free{
+    width: 80%;
+    margin-left: 28%;
+}
+.free img{
+    display: inline;
+    width: 100px;
+    height: 150px;
+    border-radius: 100px;  
+    margin-left: 10px;
+    margin: 0px;
+   
+}
+img{
+    margin-left: 0px;
+}
+.login{
+    border: 2px solid #47af90;
+    color: #47af90 ;
+    width: 60px;
+    height: 20px;
+    background-color: white;
+}
+.nice{
+    margin-top: 100px;
+   margin-right: 395px;
+    background-color: rgb(198, 248, 247);
+    color: rgb(17, 235, 166);
+    margin-left: 520px;
+    border-radius: 5px;
+    
+}
+.money{
+    margin-left: 390px;
+    font-size: 20px;
+}
+.me img{
+    font-size: 5px;
+    width: 80px;
+    height: 80px;
+    padding: 20px;
+
+}
+.me{
+    display: flex;
+    margin-left: 210px;
+}
+.rab{ 
+    
+    margin-left: 330px;
+    border-radius: 5px;
+}
+.rab span{
+    color: rgb(37, 177, 147);    
+}
+.abbas img{
+    margin-left: 600px;
+    width: 300px;
+    height: 300px;
+    border-radius: 80px;
+}
+.omer{
+    margin-left: 225px;
+     margin-top: -250px;
+     background-color: #e4f6f3;
+    color: rgb(6, 136, 99);
+    margin-left: 225px;
+    margin-right: 700px;
+    border-radius: 5px;
+}
+.lili{
+    margin-left: 222px;
+}
+.r4{
+    margin-left: 222px;
+     background-color: aqua;
+     margin-right: 700px;
+}
+.like{
+margin-left: 540px;
+color: aqua;
+padding-top: 20PX;
+margin-right: 360px;
+
+
+}
+.book{
+    margin-left: 350px;
+}
+.lewa img{
+    width: 220px;
+    height: 220px;
+    border-radius: 10px;
+    margin-left: 700px;
+}
+.old img{
+    width: 220px;
+    height: 220px;
+    margin-top: -280px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    margin-left: 470px;
+}
+.ty img{
+    width: 220px;
+    height: 220px;
+    border-radius: 10px;
+    margin-top: -280px;
+    margin-left: 240px;
+    margin-bottom: 40px;
+}
+.love img{
+    width: 220px;
+    height: 220px;
+    border-radius: 10px;
+    margin-left: 700px;
+}
+.uma img{
+    width: 220px;
+    height: 220px;
+    border-radius: 10px;
+    margin-left: 470px;
+    margin-top: -350px;
+    margin-bottom: 20px;
+}
+.guys img{
+    width: 220px;
+    height: 220px;
+    border-radius: 10px;
+    margin-left: 240px;
+    margin-top: -250px;
+    margin-bottom: 40px;
+}
+.read{
+   margin-left: 550px;
+   background-color: rgb(196, 234, 221);
+   margin-right: 360px;
+   color: rgb(13, 210, 33);
+   border-radius: 7px;
+}
+#a{
+    font-weight: bold;
+}
+#fact{
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 470px;
+}
+#va{
+    font-weight: bold;
+    font-size: 20px;
+}
+.kill{
+    margin-left: 800px;
+    color: rgb(157, 153, 153);
+    margin-right: 20px;
+}
+.lolo{
+    margin-left: 600px;
+    color: rgb(157, 153, 153);
+    margin-right: 20px;
+    margin-top: -20px;
+}
+.do{
+    margin-left: 400px;
+    color: rgb(157, 153, 153);
+    margin-right: 20px;
+    margin-top: -20px;
+}
+.it{
+    width: 70px;
+    margin-left: 200px;
+    color: rgb(16, 233, 208);
+    margin-right: 20px;
+    margin-top: -20px;
+    border-bottom:rgb(11, 240, 190) solid;
+}
+.tt img{
+    width: 300px;
+    height: 300px;
+    margin-left: 620px;
+    border-radius: 15px;
+}
+.sa{
+    margin-left: 200px;
+    margin-top: -300px;
+    
+}
+.go{
+    margin-left: 200px;
+}
+.ro{
+    margin-left: 200px;
+}
+.bo{
+    margin-left: 200px;
+    background-color: rgb(49, 226, 214);
+    margin-right: 720px;
+    height: 30px;
+}
+#r5{
+    background-color: rgb(225, 246, 239);
+    height: 300px;
+    margin-top: 50px;
+}
+.so{
+    margin-left: 900px;
+    padding-top: 40px;
+}
+.xo{
+    margin-left: 870px;
+    margin-top: -18px;
+}
+.po img{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    margin-left: 500px;
+}
+.zo{
+    margin-left: 200px;
+    background-color: rgb(205, 245, 245);
+    color: #19d6e0;
+    border-radius: 6px;
+    margin-right: 730px;
+    margin-top: -250px;
+}
+.mo{
+    margin-left: 200px;
+}
+.vo{
+    margin-left: 200px;
+    background-color: #08c745;
+    color: aqua;
+    margin-right: 710px;
+    height: 30px;
+    border-radius: 5px;
+}
+.fo{
+   background-color: #19d6e0;
+   margin-left: 700px;
+   margin-top: -200px;
+   position:relative;
+   top:0px;
+   left: 0px;
+   z-index: 1;
+}
+.co img{
+    width: 260px;
+    height: 260px;
+    margin-left: 520px;
+    padding-top: 60px;
+}
+.io{
+    margin-left: 200px;
+    margin-top: -250px;
+}
+.aa{
+    background-color: #bee4e6;
+    color: rgb(0, 2, 2);
+    margin-left: 300px;
+}
+.to{
+    background-color: aquamarine;
+    margin-left: 199px;
+    margin-right: 740px;
+    margin-top: -35px;
+   
+}
+.ho{
+    margin-left: 450px;
+    color: #08c745;
+    padding-top: 50px;
+}
+#must{
+    margin-left: 440px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.know img{
+width:200px;
+height: 200px;
+margin-left: 700px;
+border-radius: 10px;
+margin-top: -110px;
+}
+.ti{
+    margin-left: 710px;
+    font-size: 12px; 
+    background-color: white;
+    margin-right: 110px;
+}
+.wow{
+    margin-left: 710px;
+    background-color: aqua;
+    margin-right: 220px;
+    padding: 0px;
+}
+.they img{
+    width:200px;
+height: 200px;
+margin-left: 440px;
+border-radius: 10px;
+margin-top: -420px;
+margin-bottom: 400px;
+}
+.them{
+    margin-left: 450px;
+    background-color: white;
+    margin-right: 370px;
+    margin-top: -410px;
+    margin-bottom: 400px;
+    font-size: 12px;
+}
+.iam{
+    margin-left: 450px;
+    background-color: aqua;
+    margin-right: 480px;
+    margin-top: -380px;
+    
+   
+}
+.us img{
+    margin-left: 180px;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    margin-top: -420px;
+    margin-bottom: 260px;
+}
+.the{
+    background-color: white;
+    margin-left: 185px;
+    margin-top: -270px;
+    font-size: 12px;
+    margin-right: 630px;
+}
+.no{
+    margin-left: 190px;
+    background-color: aqua;
+    margin-right: 750px;
+    
+    
+}
+#b{
+    margin-top: 80px;
+    background-color: #e0f8f8;
+    height: 500px;
+    padding-top: 50px;
+   
+    
+}
+
+
+
